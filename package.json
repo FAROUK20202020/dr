@@ -4,7 +4,7 @@
     "version": "5.0.2",
     "scripts": {
         "dev:example": "vite --port 3011",
-        "build:examples": "vite build"
+        "build": "vite build"
     },
     "dependencies": {
         "@moralisweb3/common-evm-utils": "^2.25.1",
